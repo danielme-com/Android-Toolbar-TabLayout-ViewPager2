@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primary" type="color">#9a28a1</item>
+    <item name="primaryDark" type="color">#6f1d7e</item>
+    <item name="tab_color_selected" type="color">#FFFFFF</item>
+    <item name="tab_color_unselected" type="color">#80FFFFFF</item>
+    <item name="tab_badge" type="color">#ec0000</item>
+    <item name="greyBackground" type="color">#efefef</item>
+</resources>

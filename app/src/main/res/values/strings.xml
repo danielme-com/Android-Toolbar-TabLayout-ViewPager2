@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Material Design Tabs</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_fav">Favourites</string>
+    <string name="tab_music">Music</string>
+    <string name="tab_movies">Movies</string>
+</resources>
